@@ -1,0 +1,15 @@
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\bin\Debug\net7.0\Zajecia5.exe
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\bin\Debug\net7.0\Zajecia5.deps.json
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\bin\Debug\net7.0\Zajecia5.runtimeconfig.json
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\bin\Debug\net7.0\Zajecia5.dll
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\bin\Debug\net7.0\Zajecia5.pdb
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\Zajecia5.csproj.AssemblyReference.cache
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\Zajecia5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\Zajecia5.AssemblyInfoInputs.cache
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\Zajecia5.AssemblyInfo.cs
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\Zajecia5.csproj.CoreCompileInputs.cache
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\Zajecia5.dll
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\refint\Zajecia5.dll
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\Zajecia5.pdb
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\Zajecia5.genruntimeconfig.cache
+C:\Users\Damianek\Desktop\sem3\ASD\Zajecia5\obj\Debug\net7.0\ref\Zajecia5.dll
